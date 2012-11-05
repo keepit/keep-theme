@@ -3,7 +3,7 @@
 Тёмный интерфейс для Sublime Text 2.
 
 ## Интерфейс
-![Keep theme - Тёмный интерфейс для Sublime Text 2](https://github.com/keepit/keep-theme-for-st2/raw/master/keep-theme.png)
+![Keep theme - Тёмный интерфейс для Sublime Text 2](https://github.com/keepit/keep-theme/master/keep-theme.png)
 
 По идее: [EleazarCrusader / Nexus Theme](https://github.com/EleazarCrusader/nexus-theme/).
 
